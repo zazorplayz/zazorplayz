@@ -2,7 +2,7 @@
 
 Frontend developer building responsive, accessible web interfaces with React and TypeScript.
 
-I enjoy turning product ideas into clear user experiences and refining the details that make interfaces feel polished across devices. I am currently strengthening my frontend engineering foundations through hands-on projects, testing, and better technical documentation.
+I enjoy turning product ideas into clear user experiences and refining the details that make interfaces feel polished across devices. My work focuses on reusable components, responsive layouts, client-side interactions, testing, and clear technical documentation.
 
 ## What I Build
 
@@ -36,6 +36,6 @@ I enjoy turning product ideas into clear user experiences and refining the detai
 
 I use modern development tools, including AI-assisted workflows, to explore and iterate. I focus on understanding the code, reviewing the result, and improving its quality through testing and documentation.
 
-## Work in Progress
+## Current Project
 
-I am preparing my first public frontend case study with a live demo, clear contribution notes, setup instructions, tests, and an explanation of the technical decisions behind it.
+I am building a public frontend case study with a live demo, clear contribution notes, setup instructions, tests, and an explanation of the technical decisions behind it.
